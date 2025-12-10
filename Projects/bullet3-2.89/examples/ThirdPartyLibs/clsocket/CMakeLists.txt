@@ -1,4 +1,4 @@
-#cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+#CMAKE_MINIMUM_REQUIRED(VERSION 3.6 FATAL_ERROR)
 #project(clsocket)
 
 # set up versioning.

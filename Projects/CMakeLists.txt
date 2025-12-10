@@ -13,7 +13,7 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #-----------------------------------------------------------------------------
-CMAKE_MINIMUM_REQUIRED(VERSION 3.5) #Version of cmake in steam-runtime
+CMAKE_MINIMUM_REQUIRED(VERSION 3.6) #Version of cmake in steam-runtime
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
